@@ -7,6 +7,9 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 
 <br />
 
+![Dashboard Page 1](Healthcare_Dashboard_1.JPG)
+![Dashboard Page 2](Healthcare_Dashboard_2.JPG)
+
 **Table of Contents**
 
 1. Key Technologies and Skills
@@ -83,8 +86,6 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 
    - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, while **49.96%** are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
 
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
 <br />
 
